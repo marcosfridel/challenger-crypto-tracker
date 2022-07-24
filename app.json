@@ -1,0 +1,10 @@
+{
+  "name": "cryptotracker",
+  "displayName": "Crypto Tracker Pro - Inthenet",
+  "icon": "./app/assets/icon.png",
+  "splash": {
+    "image": "./app/assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#e83e8c"
+  }
+}
